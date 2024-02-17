@@ -1,0 +1,8 @@
+<svg viewBox="0 0 1 1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" height="0">
+<style>a{display:none;}a:target{display:inline;opacity:0;}</style>
+<symbol id="e" viewBox="0 0 1 1"><rect width="1" height="1"/></symbol>
+<!--********************************-->
+<a id="_1" href="1.html" target="_parent"><use href="#e"/></a>
+<a id="_2" href="2.html" target="_parent"><use href="#e"/></a>
+<!--********************************-->
+</svg>
